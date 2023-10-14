@@ -14,7 +14,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://www.linkedin.com/in/mohith-bayya-ba7784206/',
+            href: 'https://www.linkedin.com/in/kakarla-meghasyam-b0a999251/',
             style: 'rounded-tr-md'
         },
         {
@@ -24,7 +24,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com/Mohith705',
+            href: 'https://github.com/Meghasyam9957',
         },
         {
             id: 3,
@@ -33,19 +33,9 @@ const SocialLinks = () => {
                     Mail <HiOutlineMail size={30} />
                 </>
             ),
-            href: 'mailto:bayymohith32@gmail.com',
+            href: 'mailto:meghasyam2208@gmail.com',
         },
-        {
-            id: 4,
-            child: (
-                <>
-                    Resume <BsFillPersonLinesFill size={30} />
-                </>
-            ),
-            href: 'https://drive.google.com/file/d/1xZUQ_DdoiABdHD_t7SgwFGqro3xa4CER/view?usp=drivesdk',
-            style: 'rounded-br-md',
-            download: true,
-        },
+       
     ]
 
     return (
